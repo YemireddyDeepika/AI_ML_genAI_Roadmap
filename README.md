@@ -55,7 +55,7 @@ AI_ML_genAI_Roadmap/
 │ ├── Resume_Analyzer/
 │
 └── README.md
-'''
+
 ##  Learning Approach
 - Daily hands-on coding practice  
 - Concept-first learning (no rote memorization)  
