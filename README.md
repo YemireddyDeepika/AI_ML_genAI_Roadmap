@@ -31,7 +31,7 @@ by building a strong **project-driven portfolio**.
 - Git & GitHub  
 
 ---
-##  Repository Structure
+## 🗂️ Repository Structure
 
 AI_ML_genAI_Roadmap/
 ├── Day01_NumPy_Basics/
@@ -40,22 +40,21 @@ AI_ML_genAI_Roadmap/
 ├── Day04_Data_Cleaning/
 │
 ├── Machine_Learning_Projects/
-│   ├── Student_Performance_Prediction/
-│   ├── Loan_Approval_System/
-│   ├── Customer_Segmentation/
+│ ├── Student_Performance_Prediction/
+│ ├── Loan_Approval_System/
+│ ├── Customer_Segmentation/
 │
 ├── Deep_Learning_Projects/
-│   ├── Digit_Recognition_MNIST/
-│   ├── Face_Recognition_System/
-│   ├── Sentiment_Analysis/
+│ ├── Digit_Recognition_MNIST/
+│ ├── Face_Recognition_System/
+│ ├── Sentiment_Analysis/
 │
 ├── Generative_AI_Projects/
-│   ├── AI_Chatbot/
-│   ├── PDF_QA_RAG_System/
-│   ├── Resume_Analyzer/
+│ ├── AI_Chatbot/
+│ ├── PDF_QA_RAG_System/
+│ ├── Resume_Analyzer/
 │
 └── README.md
-
 
 ##  Learning Approach
 - Daily hands-on coding practice  
