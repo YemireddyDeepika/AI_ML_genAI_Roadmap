@@ -81,16 +81,20 @@ By the end of this week, I gained hands-on experience with **classification, clu
 
 ## 📂 Repository Structure
 Week3/
-│
 ├── Day15_Decision_Tree/
+│   ├── data/
+│   ├── notebooks/
+│   └── scripts/
 ├── Day16_Random_Forest/
 ├── Day17_SVM/
 ├── Day18_KMeans/
 ├── Day19_PCA/
 ├── Day20_Feature_Engineering/
 ├── Day21_Customer_Segmentation_Project/
-│
-└── README.md
+│   ├── src/
+│   ├── plots/
+│   └── README.md
+└── README.md (This is your main Week 3 summary)
 
 ---
 
