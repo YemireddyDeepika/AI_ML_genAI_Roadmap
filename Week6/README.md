@@ -160,14 +160,4 @@ After completing Week 6, I can:
 
 # 🔜 Next Step
 
-**Week 7 – NLP, RNN, LSTM & Sequence Models**
-
-Upcoming learning:
-
-* Text preprocessing
-* Word embeddings
-* Recurrent Neural Networks (RNN)
-* LSTM/GRU for long-term memory
-* **Sentiment Analysis NLP project**
-
 🚀 Moving closer to **Transformers & Generative AI**.
